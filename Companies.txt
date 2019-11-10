@@ -1,0 +1,14 @@
+Tier 1
+Facebook
+Apple
+Amazon
+Netflix
+Google
+Tier 2
+Company A
+Company B
+Company C
+Tier 3
+Company X
+Company Y
+Blizzard

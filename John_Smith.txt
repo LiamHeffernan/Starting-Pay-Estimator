@@ -1,0 +1,10 @@
+John Smith
+B.S. in Computer Science
+Intern
+Company A
+10000.00
+1
+Junior Engineer
+Company B
+50000.00
+3
